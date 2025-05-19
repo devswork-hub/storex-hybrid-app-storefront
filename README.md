@@ -1,5 +1,11 @@
 # Welcome to your Expo app 👋
 
+## Como esse projeto foi criado
+
+```bash
+npx create-expo-app@latest --template default storex-hybrid-app-storefront
+```
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
